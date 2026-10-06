@@ -1,0 +1,22 @@
+{
+  "name": "belajar-typescript",
+  "version": "1.0.0",
+  "description": "Selamat datang di repository tempat aing mempertaruhkan sisa-sisa kesehatan mental demi memahami **TypeScript**! Katanya sih pakai TS bikin hidup lebih tenang dan tentram, tapi pas baru mulai malah bikin pusing gara-gara garis merah di mana-mana kayak buku tabungan minus 🫠.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asyamfaw/Belajar_TypeScript.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Asyamfaw/Belajar_TypeScript/issues"
+  },
+  "homepage": "https://github.com/Asyamfaw/Belajar_TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
